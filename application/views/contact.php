@@ -5,7 +5,7 @@
 
 <div class="container my-5">
     
-<h3 class="text-center"> Envíanos un Mensaje y Solicita tu instalación </h3>
+<h3 class="text-center"> Envíanos un mensaje - Solicita tu instalación </h3>
 <div class="row mt-3">
     <div class="col-6 " style="border-radius: 10px; background-color: #6832a8; color:white">
 <div class="formulario">
